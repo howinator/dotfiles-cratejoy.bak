@@ -1,0 +1,1 @@
+/Users/howiebenefiel/.config/fisherman/get/completions/get.fish

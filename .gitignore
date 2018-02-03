@@ -1,0 +1,8 @@
+/*
+!.config/
+.config/**/.git
+!.vimrc
+!.ackrc
+!.gitconfig
+!README.md
+!.gitignore

@@ -1,0 +1,1 @@
+/Users/howiebenefiel/.config/fisherman/await/functions/await.fish
