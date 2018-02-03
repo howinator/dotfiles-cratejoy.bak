@@ -1,0 +1,6 @@
+[user]
+	signingkey = B3E622C6204721AB
+	name = Howie Benefiel
+	email = howie@cratejoy.com
+[core]
+	excludesfile = /Users/howiebenefiel/.gitignore
